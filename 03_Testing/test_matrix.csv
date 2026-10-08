@@ -1,0 +1,17 @@
+ID,Scenario,Customer Input,Expected,Agent Behavior
+T01,Perfect eligible,Residential; Sole; originals available; ₹50L; Salaried; Bank; ₹1Cr; 10 years,PASS,Senior loan expert handoff
+T02,Agricultural property,Property is agricultural,FAIL,Immediate disqualification; no more questions
+T03,Cash income,Self-employed; cash income,FAIL,Immediate disqualification
+T04,Original documents unavailable,Only photocopies,FAIL,Immediate disqualification
+T05,Tenure too short,2 years,FAIL,Immediate disqualification
+T06,Tenure too long,20 years,FAIL,Immediate disqualification
+T07,Loan amount above limit,Customer asks for ₹90L,CONVERT,Explain ₹75L maximum; ask whether to proceed with ₹75L
+T08,Joint ownership,Residential; jointly owned,PASS,Continue qualification
+T09,Existing property loan,Already has a loan on property,TRANSFER,Specialist message; end
+T10,EMI reduction,Wants to reduce existing EMI,TRANSFER,Specialist message; end
+T11,Out-of-order,Residential; joint; ₹80L value in one response,PASS,Store all three; ask next missing item
+T12,Busy customer,In a meeting,CALLBACK,Ask convenient callback time; end
+T13,Contradiction,"Residential, then agricultural",FAIL,Latest clear answer wins; disqualify
+T14,Multiple answers,"Residential, sole, originals, ₹40L, 10 years",PASS,Store all; ask occupation + income
+T15,Interruption,Customer asks what documents are needed,PASS,Answer briefly; resume missing checklist
+T16,Ambiguous documents,Papers are probably somewhere,CLARIFY,Confirm original documents availability

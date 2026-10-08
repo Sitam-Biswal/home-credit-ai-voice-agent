@@ -1,0 +1,7 @@
+TEST T06 — TENURE TOO LONG
+Expected: Disqualification
+
+Agent: What loan tenure would you prefer?
+Customer: 20 years.
+Agent: Thank you. The available tenure for this offer is from 3 to 15 years, so a 20-year tenure does not meet the criteria for this offer. Thank you for your time.
+Agent: [END CALL]

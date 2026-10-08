@@ -1,0 +1,6 @@
+TEST T10 — EMI REDUCTION
+Expected: Transfer specialist → End
+
+Customer: Actually, I mainly want to reduce my existing EMI.
+Agent: Thank you for clarifying. This would need to be handled by our loan-transfer specialist. A specialist will contact you regarding the next steps. Thank you for your time.
+Agent: [END CALL]

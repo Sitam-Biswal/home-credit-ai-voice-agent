@@ -1,0 +1,6 @@
+TEST T16 — AMBIGUOUS DOCUMENTS
+Expected: Clarification
+
+Agent: Do you have the original property documents available for verification?
+Customer: I think the papers are probably somewhere.
+Agent: Just to confirm, do you have the original property documents available for verification?

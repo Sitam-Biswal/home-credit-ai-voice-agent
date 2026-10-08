@@ -1,0 +1,7 @@
+TEST T03 — CASH INCOME
+Expected: Immediate disqualification
+
+Agent: Are you salaried or self-employed, and is your income received through your bank account?
+Customer: I'm self-employed. Most of my income is cash.
+Agent: Thank you for clarifying. Based on the criteria for this specific offer, income received in cash does not meet the current eligibility requirement. Thank you for your time.
+Agent: [END CALL]

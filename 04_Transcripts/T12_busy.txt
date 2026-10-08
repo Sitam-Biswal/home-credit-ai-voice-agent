@@ -1,0 +1,9 @@
+TEST T12 — BUSY CUSTOMER
+Expected: Callback → End
+
+Agent: Hello, may I speak with Rahul?
+Customer: Yes, but I'm in a meeting right now.
+Agent: Certainly, I understand. What would be a convenient time for us to call you back?
+Customer: Tomorrow around 11 AM.
+Agent: Thank you. We'll call you back around that time. Have a good day.
+Agent: [END CALL]

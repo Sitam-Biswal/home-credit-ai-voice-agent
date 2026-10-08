@@ -1,0 +1,6 @@
+TEST T15 — INTERRUPTION
+Expected: Answer briefly and resume flow
+
+Agent: Do you have the original property documents available for verification?
+Customer: Wait, what documents do you need?
+Agent: We need the original property documents available for verification. Do you have those originals available?

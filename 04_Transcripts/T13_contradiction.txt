@@ -1,0 +1,8 @@
+TEST T13 — CONTRADICTION
+Expected: Latest clear answer wins
+
+Customer: It's a residential property... actually, it's agricultural land.
+Internal state after latest clear answer:
+- property_type = Agricultural
+Agent: Thank you for clarifying. Based on the criteria for this specific offer, agricultural property is not eligible at this time. Thank you for your time.
+Agent: [END CALL]
