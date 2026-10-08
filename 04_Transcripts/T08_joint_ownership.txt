@@ -1,0 +1,6 @@
+TEST T08 — JOINT OWNERSHIP
+Expected: Continue
+
+Agent: Is the property solely owned by you, or is it jointly owned?
+Customer: It's jointly owned by me and my wife.
+Agent: Thank you. Do you have the original property documents available for verification?

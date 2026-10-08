@@ -1,0 +1,11 @@
+TEST T14 — MULTIPLE ANSWERS
+Expected: Capture all; ask occupation + income
+
+Customer: It's my own residential property, original documents are available, I need ₹40 lakh and I'd prefer 10 years.
+Internal state:
+- property_type = Residential
+- ownership_status = Sole
+- documents_available = TRUE
+- loan_amount = ₹40 lakh
+- tenure = 10 years
+Agent: Thank you. Are you salaried or self-employed, and is your income received through your bank account?

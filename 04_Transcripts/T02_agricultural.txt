@@ -1,0 +1,7 @@
+TEST T02 — AGRICULTURAL PROPERTY
+Expected: Immediate disqualification
+
+Agent: What type of property are you looking to use for the loan?
+Customer: It's agricultural land.
+Agent: Thank you for sharing that. Based on the criteria for this specific offer, agricultural property is not eligible at this time. Thank you for your time.
+Agent: [END CALL]

@@ -1,0 +1,22 @@
+TEST T01 — PERFECT ELIGIBLE CUSTOMER
+Expected: PASS → Senior loan expert handoff
+
+Agent: Hello, may I speak with Rahul?
+Customer: Yes, this is Rahul.
+Agent: Thank you. We're reaching out because, as one of our valued customers, you may be eligible for a special Loan Against Property offer of up to ₹75 lakh. I'd like to ask a few basic questions to check whether the offer is suitable for you.
+Customer: Sure.
+Agent: What type of property are you looking to use for the loan — residential, commercial, or industrial?
+Customer: Residential.
+Agent: Is the property solely owned by you, or is it jointly owned?
+Customer: It's solely mine.
+Agent: Do you have the original property documents available for verification?
+Customer: Yes, the originals are available at home.
+Agent: Approximately how much loan would you like?
+Customer: Around ₹50 lakh.
+Agent: Are you salaried or self-employed, and is your income received through your bank account?
+Customer: I'm salaried and my salary comes into my bank account.
+Agent: Approximately what is the current market value of the property?
+Customer: Around ₹1 crore.
+Agent: What loan tenure would you prefer?
+Customer: 10 years.
+Agent: Thank you. I've completed the preliminary eligibility details. A senior loan expert will contact you shortly to discuss the next steps and exact offer details.

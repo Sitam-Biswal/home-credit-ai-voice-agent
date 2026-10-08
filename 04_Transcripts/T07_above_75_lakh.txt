@@ -1,0 +1,8 @@
+TEST T07 — LOAN AMOUNT ABOVE LIMIT
+Expected: Offer ₹75 lakh alternative
+
+Agent: Approximately how much loan would you like?
+Customer: I need ₹90 lakh.
+Agent: The current offer is available for up to ₹75 lakh. Would you like to proceed with the maximum eligible amount of ₹75 lakh?
+Customer: Yes.
+Agent: Thank you. I'll note ₹75 lakh and continue with the remaining eligibility details.

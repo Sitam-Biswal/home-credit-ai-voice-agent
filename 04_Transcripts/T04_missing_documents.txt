@@ -1,0 +1,7 @@
+TEST T04 — ORIGINAL DOCUMENTS UNAVAILABLE
+Expected: Immediate disqualification
+
+Agent: Do you have the original property documents available for verification?
+Customer: No, I only have photocopies.
+Agent: Thank you for clarifying. Based on the criteria for this specific offer, the original property documents need to be available for verification. Thank you for your time.
+Agent: [END CALL]
